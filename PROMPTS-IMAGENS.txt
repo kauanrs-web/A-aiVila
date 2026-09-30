@@ -1,0 +1,9 @@
+Fotografias ilustrativas criadas com a ferramenta integrada de geração de imagens.
+
+Clássico: fotografia editorial realista de um bowl branco de açaí com banana e granola, fundo rosa vivo, luz natural, sem texto ou logotipo.
+
+Personalizado: fotografia editorial realista de um bowl branco de açaí com banana, morangos e granola em fileiras, fundo verde-lima, luz natural, sem texto ou logotipo.
+
+Hero: fotografia ilustrativa já existente, com banana, morangos e granola em fundo roxo.
+
+Queridinho: fotografia realista de bowl branco com açaí, morangos, banana, granola e fios de leite condensado, fundo coral-rosa, luz natural, sem texto, marca ou pessoas. Gerada com a ferramenta integrada.

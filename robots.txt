@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://acaidavila.example/sitemap.xml

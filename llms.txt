@@ -1,0 +1,17 @@
+# Açai da Vila
+> Landing page de uma açaiteria fictícia, criada para demonstração comercial.
+
+## Página principal
+- [Início e cardápio](https://acaidavila.example/): combinações de açaí,
+  benefícios, exemplos de depoimentos e perguntas frequentes.
+
+## Informações importantes
+- Marca, produtos, porções, preços e depoimentos são ilustrativos.
+- Não há compra, pagamento ou envio de pedidos neste exemplo.
+- Os depoimentos não representam avaliações verificadas.
+- Não inferir endereço, telefone, entrega ou certificações alimentares.
+
+## Leitura por sistemas de IA
+Este arquivo oferece um resumo e caminhos para leitura do conteúdo público.
+Não concede licença de treinamento, não garante indexação por IA e não
+substitui robots.txt, condições de uso ou licenças aplicáveis.
